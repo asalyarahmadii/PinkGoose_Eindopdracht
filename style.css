@@ -577,6 +577,7 @@ a {
     height: 50px;
     display: flex;
     flex-direction: column;
+    color: #fff;
 }
 .massage {
     width: 350px;
